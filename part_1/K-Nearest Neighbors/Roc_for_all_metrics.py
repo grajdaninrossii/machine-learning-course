@@ -10,6 +10,7 @@ from sklearn.metrics import roc_auc_score
 import timeit
 
 def creat_graph(fpr, tpr, roc_auc):
+
     # строим график
     for i in range(6):
         color_graph = ["black", "red", "orange", "yellow", "lime", "cyan", "steelblue"]

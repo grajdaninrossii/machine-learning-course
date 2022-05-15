@@ -12,7 +12,7 @@ import numba
 def split_dataset(data):
     len_mass = len(data.data) # длина массива данных
     mass_sort = [i for i in range(len_mass)] # массив индексов
-    random.shuffle(mass_sort) # Рандомно сортируем индексы
+    random.shuffle(mass_sort) # рандомно сортируем индексы
 
     len_determine = int(len_mass * 0.7)
     # list_determine = [len_mass - len_determine, len_determine
