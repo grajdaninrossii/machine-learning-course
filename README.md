@@ -9,4 +9,5 @@ Implemented methods such as:
 - Decision tree;
 - Neuronet;
 - Gradient descstep;
-- 
+- Genetic algorithms;
+- Reinforcment learning;
