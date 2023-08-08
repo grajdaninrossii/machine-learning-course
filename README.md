@@ -1,4 +1,4 @@
-# Machine_learning
+# Машинное обучение
 This repository contains scripts that use basic machine learning methods in Python.
 
 Implemented methods such as:
