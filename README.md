@@ -9,3 +9,4 @@ Implemented methods such as:
 - Decision tree;
 - Neuronet;
 - Gradient descstep;
+- 
